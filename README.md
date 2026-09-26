@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Omkar 👋
 
-<!--
-**muleyomkaar/muleyomkaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m interested in the space where **AI meets people** - product experience, communication, learning, coaching, and human-centered technology.
 
-Here are some ideas to get you started:
+My background spans **AI, teaching, coaching, communication, sales, and product experimentation**. I enjoy understanding users, developing new ideas, presenting concepts, and helping connect technical possibilities with real human needs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently building
+**Evolv** - a personal AI companion exploring semantic memory, reflection, user-controlled knowledge, and human-centered AI.
+
+### 💡 Areas I’m interested in
+AI Products · Product Thinking · User Experience · Communication · Coaching · Learning · Workshops · Partnerships · Human-Centered AI
+
+📍 Berlin, Germany
